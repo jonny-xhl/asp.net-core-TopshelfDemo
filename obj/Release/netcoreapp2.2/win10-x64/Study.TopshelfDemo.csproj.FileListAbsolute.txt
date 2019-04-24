@@ -1,0 +1,14 @@
+E:\studyspace\net学习\Study\Study.TopshelfDemo\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+E:\studyspace\net学习\Study\Study.TopshelfDemo\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+E:\studyspace\net学习\Study\Study.TopshelfDemo\bin\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.exe
+E:\studyspace\net学习\Study\Study.TopshelfDemo\bin\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.deps.json
+E:\studyspace\net学习\Study\Study.TopshelfDemo\bin\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.runtimeconfig.json
+E:\studyspace\net学习\Study\Study.TopshelfDemo\bin\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.runtimeconfig.dev.json
+E:\studyspace\net学习\Study\Study.TopshelfDemo\bin\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.dll
+E:\studyspace\net学习\Study\Study.TopshelfDemo\bin\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.pdb
+E:\studyspace\net学习\Study\Study.TopshelfDemo\obj\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.csprojAssemblyReference.cache
+E:\studyspace\net学习\Study\Study.TopshelfDemo\obj\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.csproj.CoreCompileInputs.cache
+E:\studyspace\net学习\Study\Study.TopshelfDemo\obj\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.AssemblyInfoInputs.cache
+E:\studyspace\net学习\Study\Study.TopshelfDemo\obj\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.AssemblyInfo.cs
+E:\studyspace\net学习\Study\Study.TopshelfDemo\obj\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.dll
+E:\studyspace\net学习\Study\Study.TopshelfDemo\obj\Release\netcoreapp2.2\win10-x64\Study.TopshelfDemo.pdb
