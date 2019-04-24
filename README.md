@@ -1,0 +1,2 @@
+# asp.net-core-TopshelfDemo
+Topshelf是一个开源的跨平台的宿主服务框架，支持Windows和Core，只需要几行代码就可以构建一个很方便使用的服务宿主
